@@ -1,2 +1,4 @@
 Scenario 1: Book train from che to bng
 Scenario 2: Cancel ticket from bng to che
+Scenario 3:
+Scenario 4:
